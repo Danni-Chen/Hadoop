@@ -4,3 +4,6 @@ Hadoop实训指导书包含三个部分：第一Hadoop完全分布式环境的�
 
 
 HBase实训指导书包含三个步骤：第一安装ntf服务；第二安装HBase（Hadoop Database是一个高可靠性、高性能、面向列、可伸缩的分布式存储系统）；第三验证测试。
+
+
+hive实训指导书包含两大部分：第一是安装mysql和hive；第二是hive的shell命令练习操作。（hive是基于Hadoop的一个数据仓库工具，可以将结构化的数据文件映射为一张数据库表，并提供完整的sql查询功能，可以将sql语句转换为MapReduce任务进行运行。 其优点是学习成本低，可以通过类SQL语句快速实现简单的MapReduce统计，不必开发专门的MapReduce应用，十分适合数据仓库的统计分析）。
