@@ -7,3 +7,6 @@ HBase实训指导书包含三个步骤：第一安装ntf服务；第二安装HBa
 
 
 hive实训指导书包含两大部分：第一是安装mysql和hive；第二是hive的shell命令练习操作。（hive是基于Hadoop的一个数据仓库工具，可以将结构化的数据文件映射为一张数据库表，并提供完整的sql查询功能，可以将sql语句转换为MapReduce任务进行运行。 其优点是学习成本低，可以通过类SQL语句快速实现简单的MapReduce统计，不必开发专门的MapReduce应用，十分适合数据仓库的统计分析）。
+
+
+spark实训指导书包含三大部分：第一是安装spark；第二是验证测试；第三是计算单词数的应用实例。spark的一个主要特点是能够在内存中进行计算，及时依赖磁盘进行复杂的运算，Spark比MapReduce更加高效，Spark是MapReduce的替代方案，而且兼容HDFS、Hive，可融入Hadoop的生态系统，以弥补MapReduce的不足。
