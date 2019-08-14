@@ -10,3 +10,6 @@ hive实训指导书包含两大部分：第一是安装mysql和hive；第二是h
 
 
 spark实训指导书包含三大部分：第一是安装spark；第二是验证测试；第三是计算单词数的应用实例。spark的一个主要特点是能够在内存中进行计算，及时依赖磁盘进行复杂的运算，Spark比MapReduce更加高效，Spark是MapReduce的替代方案，而且兼容HDFS、Hive，可融入Hadoop的生态系统，以弥补MapReduce的不足。
+
+
+zookeeper实训指导书包含三个部分：第一是安装zookeeper；第二是验证测试；第三是zookeeper的shell命令练习操作。ZooKeeper是一个分布式的，开放源码的分布式应用程序协调服务，是Google的Chubby一个开源的实现，它是集群的管理者，监视着集群中各个节点的状态根据节点提交的反馈进行下一步合理操作。ZooKeeper的目标就是封装好复杂易出错的关键服务，将简单易用的接口和性能高效、功能稳定的系统提供给用户。
